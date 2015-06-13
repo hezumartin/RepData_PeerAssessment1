@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1434217287167.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DEC0763F",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "act2",
+        "contentUrl" : "content?title=act2&file=b2e19345afb54ed396d1b04f968236c3.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 4,
+        "totalObservations" : 17568,
+        "variables" : 4
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1434217511977.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8E90471D",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "act3",
+        "contentUrl" : "content?title=act3&file=bb0e5c6af29e42418a723092c227e7d1.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 4,
+        "totalObservations" : 17568,
+        "variables" : 4
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
