@@ -291,7 +291,7 @@ qplot(interval,avsteps,data=intervals,geom=&quot;line&quot;)
 
 <p>Devise a strategy for filling in all of the missing values in the dataset. The strategy does not need to be sophisticated. For example, you could use the mean/median for that day, or the mean for that 5-minute interval, etc.</p>
 
-<p>In this case, we will replace NAs by the rounded mean of the 5 minute interval </p>
+<p>In this case, we will replace NAs by the rounded mean of the 5 minute interval. As we already have &#39;intervals&#39; which contains the average steps per interval, we will merge(join) these two dataframes and copy in the variable &#39;steps&#39; the value of &#39;avsteps&#39; when &#39;steps&#39; is na. </p>
 
 <pre><code class="r">act2 &lt;- full_join(act, intervals, by=&quot;interval&quot;)
 act2$avsteps &lt;- as.integer(round(act2$avsteps))
