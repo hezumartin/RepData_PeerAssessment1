@@ -1,11 +1,6 @@
 # Reproducible Research: Peer Assessment 1
----
-title: "Reproducible Research: Peer Assessment 1"
-output: PA1_template.md
-  html_document: PA1_template.md
-    toc: true
-    theme: united
----
+
+
 Jesus Martin - June 2015
 
 ## Loading and preprocessing the data
