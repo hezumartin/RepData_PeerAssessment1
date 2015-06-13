@@ -84,7 +84,7 @@ sum(is.na(act))
 
 Devise a strategy for filling in all of the missing values in the dataset. The strategy does not need to be sophisticated. For example, you could use the mean/median for that day, or the mean for that 5-minute interval, etc.
 
-In this case, we will replace NAs by the rounded mean of the 5 minute interval 
+In this case, we will replace NAs by the rounded mean of the 5 minute interval. As we already have 'intervals' which contains the average steps per interval, we will merge(join) these two dataframes and copy in the variable 'steps' the value of 'avsteps' when 'steps' is na. 
 
 ```{r}
 
