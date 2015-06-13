@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1434212766247.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "628D6114",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "intervals",
+        "contentUrl" : "content?title=intervals&file=7d42a23806364970983677919f01818a.htm",
+        "displayedObservations" : 288,
+        "displayedVariables" : 2,
+        "totalObservations" : 288,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

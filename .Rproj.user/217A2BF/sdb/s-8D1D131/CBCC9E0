@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1434210628692.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CBCC9E0",
+    "lastKnownWriteTime" : 4360168960,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "stepsperday",
+        "contentUrl" : "content?title=stepsperday&file=c06e6df43f264313a4e2bde8608c6fde.htm",
+        "displayedObservations" : 61,
+        "displayedVariables" : 2,
+        "totalObservations" : 61,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
