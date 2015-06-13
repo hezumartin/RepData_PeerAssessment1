@@ -1,4 +1,5 @@
 # Reproducible Research: Peer Assessment 1
+<<<<<<< HEAD
 ---
 title: "Reproducible Research: Peer Assessment 1"
 output: PA1_template.md
@@ -7,6 +8,10 @@ output: PA1_template.md
     theme: united
 ---
 Jesus Martin - June 2015
+=======
+
+Jesús Martín - June 2015
+>>>>>>> 8ce6bcb29a8a19c0905f33b55a75fe8770902f6a
 
 ## Loading and preprocessing the data
 
